@@ -228,9 +228,11 @@ h4 {
 .hover:hover,
 .hover:focus {
   color: var(--blue);
+  cursor: pointer;
 }
 
 .hover-button:hover,
 .hover-button:focus {
   color: var(--silver);
+  cursor: pointer;
 }
