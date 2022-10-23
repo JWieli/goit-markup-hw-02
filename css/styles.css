@@ -233,6 +233,6 @@ h4 {
 
 .hover-button:hover,
 .hover-button:focus {
-  color: var(--silver);
+  color: var(--blue);
   cursor: pointer;
 }
